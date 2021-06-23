@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: br.com.rodrigo
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, data, data-jpa, gradle, grpc, java, java-application, jdbc-hikari, junit, logback, postgres, readme, shade, testcontainers, yaml]
